@@ -1,0 +1,3 @@
+# How to merge n channels in Go
+
+to be continued...
