@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning operation systems, algorithms, site reliability engineering, networking, system design, compilers, search engines etc.
+- 🌱 I’m currently learning
+  - operation systems
+  - algorithms
+  - site reliability engineering
+  - networking, system design
+  - compilers
+  - search engines
+  - computer architecture
+  - ...
 - 📫 How to reach me: `a dot maksadbek at gmail dot com`
 - 💬 Ask me about anything
-- 🔭 I’m currently working on to create some useful thing
+- 🔭 I’m currently working on to create something useful to work on as a side project
 
 ### My blog posts
 - 2020
