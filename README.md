@@ -13,11 +13,6 @@
 - 💬 Ask me about anything
 - 🔭 I’m currently working on to create something useful to work on as a side project
 
-### My blog posts
-- 2020
-  - How to merge channels in Go
-
-
 <!--
 **maksadbek/maksadbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
