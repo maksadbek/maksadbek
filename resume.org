@@ -1,0 +1,130 @@
+#+TITLE: Maksadbek's resume
+#+AUTHOR: Maksadbek
+
+
+* Work experience
+
+** ivi.ru 05.18 - present, Moscow
+  
+  The best work experience I've ever had.
+  I worked on a several projects at ivi, but mostly in a "adv team".
+  Me and my team rewrote the adv server from Python to Go and we are still maintaining it.
+  The SCRUM methodology leveraged our team's skills and made us more
+  productive making the overall development roadmap more transparent.
+
+*** What I did
+   - Developed from scratch users' saved filters of movies using Python and MongoDB
+   - Participated in a development of various utilities that run periodically using cron to register users on partner systems, recover purchases and transfer them bonuses
+   - Developed from scratch a new ad view rate limiting service using Go and Redis. Further it became a part of ad server.
+   - Participated in a development and maintaintenance of ad server using Go, Django, Redis and Postgresql.
+     Most of the tasks were to create a "targetings", new types of ad and code optimizations.
+
+*** What technologies did I use
+   - Go
+   - Python
+   - ElasticSearch
+   - MongoDB
+   - PostgreSQL
+   - Statsd
+   - Grafana
+   - Sentry
+   - ...
+
+*** What did I learn
+   - How to make development roadmap more transparent
+   - A bit more about project management
+   - How to work with product owner
+   - How to improve observability and monitoring of service
+   - Working without any governance and 
+
+
+
+** infotech.group 2016 - 2018, Moscow
+
+  I worked with very good people and on interesting projects.
+  My team consisted from me and 8 people (developers, testers, managers and analysts). There were various projects that we started from scratch and brought to the production:
+  
+  - Telegram chat bot that collects information from users and saves data using backend API
+  - A service that receives data from GPS trackers in binary format through TCP connections and writes to database.
+  - E-commerce platform that connects citizens and government to solve civil engineering issues.
+  - Call center application on top of a Freeswitch project.
+
+*** What I did:
+  - Design, develop and maintain reliable microservices.
+  - Develop a service for UGC (user generated content) and authentication.
+  - Research on Freeswitch project and develop MVP version of call center app.
+  - Research and develop MVP version of "state procurements" app using MongoDB, ElasticSearch, Redis and Go.
+  - Finding root causes of bugs and fix them.
+  - Manage and tutoring very small team of junior devs.
+
+*** What technologies did I use:
+  - Go
+  - Cpp
+  - PostgreSQL
+  - ElasticSearch
+  - FreeSwitch
+  - MongoDB
+  - Kafka
+  - GRPC
+  - Docker
+  - Consul
+
+*** What did I learn:
+   - How to choose right tools (language, database, etc) for projects
+   - Managing small teams and projects
+   - Making a research on some topic before starting developing applications
+   - Coaching junior devs and help them learn Go language or switch from Python to Go.
+   - Improving team performance by developing small devtools
+
+
+
+** Regium 2016 - 2016, Ryazan
+
+  Me and my team developed web application that is used by staff to administer the email marketing automation platform using Go and JavaScript.
+  Moreover, I implemented forecasting algorithm that predicts if the clients are alive (stopped using our service) BTYD (Buy Till You Die) library using R scripting language.
+
+*** What I did:
+   - Develop​ed ​and​ ​maintain​ed ​administrative​ ​backend​ & ​frontend​ ​of​ ​corporate platform
+   - Research and development of data​ ​Analysis​ ​and​ ​calculation​ ​of​ ​basic​ ​regression​ ​script using​ ​R​ ​language
+   - Backend Development (​Go,​ ​JavaScript,​ ​Docker,​ ​MongoDB and ​SSDB (Redis alternative))
+     
+*** What technologies did I use:
+   - R language
+   - Go
+   - Javascript
+   - MongoDB
+   - Docker
+   - Redis
+     
+*** What did I learn:
+   - Data mining and BTYD algorithm
+   - How to work with large codebase
+
+** Newmax Technologies 2013 - 2015, Tashkent
+
+  I started as a junior developer and my first task was to replace Apache HTTPd to Nginx and bootstrap new server machines installing Debian Linux.
+
+*** What I did:
+   - A little bit of system administration
+   - Developed a service from scratch that powered frontend part of the webapp that showed car's positions on the map and statuses in realtime (Go, WebSockets, React).
+   - Develop​ment of ​scalable service that can handle the level of traffic that was problematic at that time to handle with PHP code
+   - Backend Development (​Go,​ JavaScript with React/Flux,​ ​MySQL and ​Redis)
+     
+*** What technologies did I use:
+   - NodeJS
+   - Go
+   - ReactJS
+   - WebSockets
+   - MySQL
+   - PHP
+
+*** What did I learn:
+   - Go language
+   - Monolith and microservice architectures
+   - Databases and APIs
+   - Working in a team
+
+
+
+* Education:
+** Bachelor of Science with Honours in Information Systems at WIUT (Westminster International University in Tashkent)
