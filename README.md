@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning
-  - operation systems
-  - algorithms
-  - site reliability engineering
-  - networking, system design
-  - compilers
-  - search engines
-  - computer architecture
-  - ...
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me: `a dot maksadbek at gmail dot com`
 - 💬 Ask me about anything
 - 🔭 I’m currently working on to create something useful to work on as a side project
